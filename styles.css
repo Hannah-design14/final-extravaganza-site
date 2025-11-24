@@ -1,0 +1,26 @@
+html {
+    background-color:lightblue;
+}
+
+.left-nav {
+    display: flex;
+    list-style-type: none;
+}
+
+
+.left-nav-link {
+    padding: 4px 12px;
+    margin: 0 8px;
+    color:#000;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.left-nav-link:hover{
+    text-decoration: underline;
+}
+
+.left-nav-link:active{
+    text-decoration: underline;
+}
