@@ -17,11 +17,11 @@ html {
     font-weight: 600;
 }
 
-.left-nav-link:hover{
+a:hover{
     text-decoration: underline;
 }
 
-.left-nav-link:active{
+a:active{
     text-decoration: underline;
 }
 
