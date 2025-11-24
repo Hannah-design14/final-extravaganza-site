@@ -1,10 +1,3 @@
-.head-image {
-    background-image: url(images/118774822_721402148442733_7714491285569270358_o.webp);
-    padding-bottom: 440px;
-    background-position: center bottom;
-    background-repeat: no-repeat;
-}
-
 .sign-link {
     background-color:purple;
     border-radius: 600px;
@@ -12,4 +5,20 @@
     width: 150px;
     height: 50px;
     text-decoration: none;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+}
+
+.header {
+    justify-content: space-between;
+    display: flex;
 }
