@@ -1,5 +1,5 @@
 html {
-    background-color:lightblue;
+    background-color:#A67DB0;
 }
 
 .left-nav {
@@ -23,4 +23,18 @@ html {
 
 .left-nav-link:active{
     text-decoration: underline;
+}
+
+.logo {
+    background-image: url(images/brandmark-logo-black.jpg);
+    background-size: cover; 
+    background-position: top;
+}
+
+.main {
+    padding: 40px;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
 }
