@@ -1,21 +1,23 @@
 html {
-    background-color:#A67DB0;
-    color:white;
+    background-color:#6D462C;
+    color:black;
+    font-family: oso-serif, sans-serif;
+    font-size: 45px;
 }
 
 .left-nav {
+    font-family: cofo-glassier, sans-serif;
     display: flex;
     list-style-type: none;
+    font-size: 30px;
 }
 
 
 .left-nav-link {
     padding: 4px 12px;
     margin: 0 8px;
-    color:white;
+    color:black;
     text-decoration: none;
-    font-size: 16px;
-    font-weight: 600;
 }
 
 a:hover{
@@ -67,12 +69,12 @@ a:active{
 
 .fa-car {
     background: white;
-    color: purple;
+    color:#6D462C;
 }
 
 .fa-instagram {
   background:white;
-  color:purple;
+  color:#6D462C;
 }
 
 .color {
@@ -90,4 +92,8 @@ a:active{
     width: 200px;
     height: auto;
     display: block;
+}
+
+.center {
+    text-align: center;
 }

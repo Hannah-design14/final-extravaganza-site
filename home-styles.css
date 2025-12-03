@@ -30,6 +30,10 @@
   transition: .5s ease;
 }
 
+.container:hover .gone{
+  opacity: 0;
+}
+
 .container:hover .overlay {
   opacity: 1;
 }
