@@ -1,0 +1,19 @@
+.calendar {
+    align-items: center;
+    margin: 50px;
+}
+
+.calendar-info {
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.home-events {
+    background-color:rgba(79, 27, 27, 0.084);
+}
+
+.outside-events {
+    background-color:green;
+}
