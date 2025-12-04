@@ -37,3 +37,7 @@
 .container:hover .overlay {
   opacity: 1;
 }
+
+.overall-spoon {
+  text-align: center;
+}
