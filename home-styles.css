@@ -1,6 +1,7 @@
 .container {
   position: relative;
   width: 50%;
+  left: 200px;
 }
 
 .image {
@@ -31,11 +32,10 @@
 
 .falling-herbs {
   position: absolute;
-  left: 500px;
+  left: 780px;
 }
 
 .home {
   text-align: left;
-  margin: auto;
-  max-width: 1000px;
+  max-width: 600px;
 }
