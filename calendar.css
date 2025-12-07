@@ -1,8 +1,3 @@
-.calendar {
-    align-items: center;
-    margin: 50px;
-}
-
 .calendar-info {
     padding: 40px;
     max-width: 800px;
@@ -11,9 +6,16 @@
 }
 
 .home-events {
-    background-color:rgba(79, 27, 27, 0.084);
+    background-color:#6d462c;
+}
+.outside-events {
+    background-color:#005437;
 }
 
-.outside-events {
-    background-color:green;
+.calendar-postiton{
+    text-align: center;
+}
+
+.dec {
+    padding-bottom: 25px;
 }
