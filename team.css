@@ -8,10 +8,12 @@
 }
 
 .teaching-link {
-    background-color:purple;
+    background-color:#BA9391;
     border-radius: 600px;
     margin: auto;
     width: 150px;
     height: 50px;
     text-decoration: none;
+    color: black;
 }
+
