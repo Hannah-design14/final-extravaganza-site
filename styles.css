@@ -65,7 +65,7 @@ a:active{
 }
 
 .fa-facebook {
-  background: #3B5998;
+  background: rgba(61, 91, 154, 100%) !important;
   color: white;
   text-decoration: none;
 }
