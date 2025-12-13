@@ -1,0 +1,22 @@
+.display {
+    text-align: center;
+}
+
+.placement {
+    padding: 30px;
+}
+
+.container {
+    margin: 30px;
+}
+
+.image {
+    padding-top: 20px;
+    padding-bottom: 60px;
+    float: left;
+}
+
+.product-text {
+    text-align: center;
+    padding-top: 110px;
+}
